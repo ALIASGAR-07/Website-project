@@ -1,0 +1,1262 @@
+@media (min-width:481px) and (max-width:768px) {
+    .group1 .toolbar {
+        width: 100%;
+        background-color: #b68e76;
+        margin-left: 0px;
+        align-items: center;
+    }
+
+
+    .group1 .toolbar p {
+        width: 40%;
+        font-size: 50px;
+        letter-spacing: 0px;
+        color: #ffffff;
+        font-family: "Roboto Slab";
+        margin-left: 29%;
+        padding-top: 5px;
+        align-items: center;
+    }
+
+
+    /* =================================== */
+    .linksandicons {
+        margin-top: 1%;
+        margin-left: 11%;
+        align-self: center;
+        align-items: center;
+        width: 80%;
+        background-color: #b68e76;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .links {
+        width: 80%;
+        background-color: #b68e76;
+        margin-top: 1%;
+        margin-left: 10%;
+        align-items: center;
+    }
+
+    .group1 .toolbar a {
+        font-size: 10px;
+        color: #ffffff;
+        font-weight: 00;
+        font-family: "Roboto Slab";
+        margin-left: 5px;
+        text-decoration: none;
+    }
+
+    .socialmedia {
+        width: 50%;
+        background-color: #b68e76;
+        margin-top: 1%;
+        margin-left: 40%;
+
+    }
+
+    .socialmedia i,
+    strong {
+        font-size: 5px;
+        background-color: #b68e76;
+    }
+
+    /* =================text================== */
+
+    .textandsidebar {
+        display: flex;
+
+    }
+
+    .group1 .text {
+        width: 80%;
+        height: 0%;
+        margin-top: 10%;
+        margin-left: 5%;
+    }
+
+    .group1 #fiftynine {
+        font-size: 17px;
+        letter-spacing: 0px;
+        line-height: 0px;
+        color: #000000;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+    }
+
+    .group1 .text #one {
+        width: 100%;
+        font-size: 14px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+        margin-top: 0px;
+
+    }
+
+    .group1 .text select {
+        color: black;
+        width: 80%;
+        height: 30px;
+        border-radius: 23px;
+        background-color: #ffffff;
+        margin-top: 1%px;
+        padding: 0px;
+    }
+
+    .group1 .text button {
+        width: 80%;
+        height: 20px;
+        font-size: 15px;
+        color: #fefefc;
+        font-weight: 700;
+        font-family: "Roboto Slab";
+        margin-top: 5%;
+        border-radius: 50px;
+        background-color: #b68e76;
+        border: 1px solid #b68e76;
+        box-shadow: 0px 0px 5px 0px black
+    }
+
+    .group1 .text #two {
+        width: 70%;
+        font-size: 12px;
+        line-height: 10px;
+        text-decoration: underline;
+        color: #000000;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+        margin-top: 10%;
+    }
+
+    .group1 #sixty {
+        width: 80%;
+        margin-top: 10%;
+        font-size: 8px;
+    }
+
+
+    /* ==================sidebar============= */
+
+    .sidebar {
+        width: 100%;
+        height: 380px;
+        border-radius: 50px 0px 0px 50px;
+        background-color: #ffffff;
+        margin-left: 10%;
+        margin-top: 5%;
+    }
+
+    .sidebar .text {
+        width: 90%;
+        height: 80%;
+        margin-top: 105px;
+        margin-left: 20px;
+    }
+
+    .sidebar .text #three {
+        width: 50%;
+        margin-top: -90px;
+        margin-left: 20px;
+        margin-right: 0px;
+        font-size: 10px;
+        letter-spacing: 0px;
+        line-height: 15px;
+        color: #30302f;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+        background-color: white;
+    }
+
+    .sidebar .text #four {
+        margin-left: 20px;
+        margin-right: 0px;
+        margin-top: 5px;
+        width: 50%;
+        height: 30%;
+    }
+
+    .sidebar .text #five {
+        width: 30%;
+        font-size: 8px;
+        letter-spacing: 0px;
+        line-height: 20px;
+        text-decoration: underline;
+        color: #30302f;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+        margin-left: 20px;
+        margin-top: -5px;
+    }
+
+    .sidebar .text #six {
+        margin-left: 20px;
+        margin-right: -0px;
+        margin-top: -2px;
+        width: 20%;
+        height: 20px;
+
+    }
+
+    .sidebar .text #seven {
+        margin-left: 20px;
+        margin-right: -0px;
+        margin-top: 10px;
+        width: 50%;
+        height: 30%;
+    }
+
+
+    /* ==============================================================group 2=============================================================== */
+
+    .group2 {
+        height: 100vh;
+        width: 100%;
+        background-color: #ebd5c9;
+        display: flex;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+
+    .group2 .imageandtext {
+        width: 90%;
+        height: 550px;
+        border-radius: 110px;
+        background-color: rgb(239, 235, 235);
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        box-shadow: 0px 0px 30px 0px black;
+    }
+
+    .group2 .image {
+        width: 40%;
+        height: 100px;
+        margin-left: 0px;
+        margin-top: -90px;
+        text-align: center;
+    }
+
+    .group2 .image img {
+        height: 150px;
+        width: 150px;
+    }
+
+    .group2 .textandbuttons {
+        height: 60%;
+        width: 80%;
+        margin-top: 1%;
+        text-align: center;
+    }
+
+    .group2 #ten {
+        width: 100%;
+        height: 20px;
+        margin-left: 0px;
+        font-size: 18px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+    }
+
+    .group2 #eleven {
+        width: 100%;
+        font-size: 16px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    .group2 #twelve {
+        width: 100%;
+        height: 100px;
+        font-size: 8px;
+        letter-spacing: 0px;
+        line-height: 19px;
+        color: #30302f;
+        font-weight: 400;
+        font-family: "Barlow";
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    .group2 .buttons {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    }
+
+    .group2 .buttons .button1 button {
+        width: 80px;
+        height: 20px;
+        border-radius: 17px;
+        background-color: #b68e76;
+        margin-left: 0px;
+        margin-top: 5px;
+        border: 1px solid #b68e76;
+        box-shadow: 0px 0px 10px 0px black;
+        font-weight: 700;
+        font-family: "Roboto Slab";
+        color: #fefefc;
+        font-size: 14px;
+    }
+
+    .group2 .buttons .button2 button {
+        width: 80px;
+        height: 20px;
+        border-radius: 17px;
+        background-color: #b68e76;
+        margin-left: 20px;
+        margin-top: 5px;
+        border: 1px solid #b68e76;
+        box-shadow: 0px 0px 10px 0px black;
+        font-weight: 700;
+        font-family: "Roboto Slab";
+        color: #fefefc;
+        font-size: 14px;
+    }
+
+    .group2 #thirteen {
+        font-size: 12px;
+        letter-spacing: 0px;
+        line-height: 8px;
+        text-decoration: underline;
+        color: #000000;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+        height: 10px;
+        margin-top: 10px;
+        margin-left: 0px;
+    }
+
+    .group2 #fourteen {
+        font-size: 12px;
+        letter-spacing: 0px;
+        line-height: 8px;
+        text-decoration: underline;
+        color: #000000;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+        height: 10px;
+        margin-top: 8px;
+        margin-left: 0px;
+    }
+
+    .group2 #fifteen {
+        font-size: 12px;
+        letter-spacing: 0px;
+        line-height: 8px;
+        text-decoration: underline;
+        color: #000000;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+        height: 10px;
+        margin-top: 8px;
+        margin-left: 0px;
+    }
+
+    .group2 #sixteen {
+        margin-left: 0px;
+        margin-top: 15px;
+        font-size: 8px;
+        letter-spacing: 0px;
+        line-height: 14px;
+        color: #30302f;
+        font-weight: 400;
+        font-family: "Barlow";
+    }
+
+
+    .group2 #seventeen {
+        margin-top: 20px;
+        font-size: 14px;
+        letter-spacing: 0px;
+        line-height: 19px;
+        color: #30302f;
+        font-weight: 800;
+        font-family: "Barlow";
+    }
+
+
+    /* =======================================================group 3==================================================================== */
+
+    .group3 {
+        height: 100vh;
+        width: 100%;
+        background-color: #ebd5c9;
+        background-image: url(IMAGES/group\ 3\ bg.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    .group3 .textandbuttons {
+        height: 400px;
+        width: 100%;
+        padding-left: 0px;
+        padding-top: 70px;
+    }
+
+    .group3 #eighteen {
+        width: 100px;
+        font-size: 56px;
+        line-height: 52px;
+        margin-left: 250px;
+        color: #000000;
+        font-family: "Roboto Slab";
+    }
+
+    .group3 #nineteen {
+        width: 100%;
+        text-align: center;
+        font-size: 38px;
+        letter-spacing: 0px;
+        line-height: 57px;
+        color: #000000;
+        font-weight: 500;
+        font-family: "Roboto Slab";
+        margin-top: 20px;
+    }
+
+    .group3 input {
+        align-self: center;
+        width: 60%;
+        height: 38px;
+        border-radius: 24px;
+        background-color: #ffffff;
+        margin: 10PX;
+        margin-left: 18%;
+        border: 1px solid #ebd5c9;
+    }
+
+    .group3 #twentyone button {
+        width: 70%;
+        height: 42px;
+        border-radius: 21px;
+        background-color: #b68e76;
+        margin-left: 12%;
+        margin-top: 10px;
+        border: 1px solid #ebd5c9;
+    }
+
+    /* =========================================================group 4================================================================= */
+
+    .group4 {
+        height: 100vh;
+        width: 100%;
+        background-color: #f1e8e3;
+        display: flex;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .group4 .main {
+        width: 90%;
+        height: 440.5px;
+        border-radius: 110px 110px 110px 110px;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        box-shadow: 0px 0px 30px 0px black;
+    }
+
+    /* ============image============= */
+
+    .group4 .main .image {
+        width: 40%;
+        height: 440.5px;
+        background-size: cover;
+    }
+
+    .group4 .main .image img {
+        margin-left: 0px;
+        width: 100%;
+        height: 440.5px;
+        background-size: 0px;
+        background-size: cover;
+        border-radius: 110px 0px 0px 110px;
+    }
+
+    /* ==============meu and heading========= */
+
+    .group4 .main .menuandheading {
+        background-color: #b68e76;
+        width: 60%;
+        height: 358px;
+        border-radius: 0px 110px 00px 0px;
+    }
+
+    .group4 #twentytwo {
+        font-size: 42px;
+        line-height: 75px;
+        color: #ffffff;
+        font-weight: 400;
+        font-family: "Roboto Slab";
+        text-align: center;
+        margin-top: 20px;
+        margin-right: 0px;
+    }
+
+    .group4 #twentythree {
+        font-size: 29px;
+        letter-spacing: 0px;
+        line-height: 47px;
+        color: #000000;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+        margin-left: 45px;
+        margin-top: -30px;
+    }
+
+    .group4 .menuanddollars {
+        width: 80%;
+        display: flex;
+        margin-top: -15px;
+    }
+
+    .group4 #twentyfour {
+        width: 100%;
+        font-size: 12px;
+        letter-spacing: 0px;
+        line-height: 64px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+        margin-left: 15px;
+    }
+
+    .group4 #twentyfive {
+        width: 100%;
+        font-size: 8px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+        margin-left: 15px;
+        margin-top: -20px;
+    }
+
+    .group4 #twentysix {
+        width: 100%;
+        font-size: 12px;
+        letter-spacing: 0px;
+        line-height: 34px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+        margin-left: 15px;
+    }
+
+    .group4 #twentyseven {
+        width: 100%;
+        font-size: 8px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+        margin-left: 15px;
+        margin-top: -5px;
+    }
+
+    .group4 #twentyeight {
+        width: 100%;
+        font-size: 12px;
+        letter-spacing: 0px;
+        line-height: 10px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+        margin-left: 15px;
+        margin-top: 10px;
+    }
+
+    .group4 #twentynine {
+        width: 100%;
+        font-size: 8px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+        margin-left: 15px;
+        margin-top: 5px;
+    }
+
+    .group4 #thirty {
+        width: 100%;
+        font-size: 12px;
+        letter-spacing: 0px;
+        line-height: 34px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+        margin-left: 15px;
+    }
+
+    .group4 #thirtyone {
+        width: 100%;
+        font-size: 8px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+        margin-left: 15px;
+        margin-top: -5px;
+    }
+
+    .group4 .dollars {
+        margin-left: 50px;
+    }
+
+    .group4 #thirtytwo {
+        font-size: 15px;
+        margin-top: 25px;
+        font-family: "Roboto Slab";
+    }
+
+    .group4 #thirtythree {
+        font-size: 15px;
+        margin-top: 35px;
+        font-family: "Roboto Slab";
+    }
+
+    .group4 #thirtyfour {
+        font-size: 15px;
+        margin-top: 35px;
+        font-family: "Roboto Slab";
+    }
+
+    .group4 #thirtyfive {
+        font-size: 15px;
+        margin-top: 48px;
+        font-family: "Roboto Slab";
+    }
+
+    /* ===========beverages========== */
+
+    .group4 .beverages {
+        width: 60%;
+        height: 82.5px;
+        background-color: #000000;
+        border-radius: 0px 0px 110px 0px;
+    }
+
+    .group4 #thirtysix {
+        font-size: 18px;
+        letter-spacing: 0px;
+        line-height: 31px;
+        color: #ffffff;
+        font-weight: 500;
+        font-family: "Roboto Slab";
+        margin-left: 15px;
+        margin-top: 20px;
+    }
+
+    .group4 #thirtyseven {
+        text-align: justify;
+        width: 80%;
+        font-size: 8px;
+        line-height: 19px;
+        color: #000000;
+        font-weight: 400;
+        font-family: "Barlow";
+        margin-left: 0%;
+        margin-top: 30px;
+    }
+
+
+    /* ==========================================================group 5=============================================================== */
+
+    .group5 {
+        height: 100vh;
+        width: 100%;
+        background-color: #f1e8e3;
+        background-image: url(IMAGES/group\ 5\ bg.png);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+    }
+
+    .group5 .text {
+        width: 260px;
+        margin-left: 30px;
+        padding-top: 250px;
+    }
+
+    .group5 #thirtyeight {
+        width: 250px;
+        font-size: 18px;
+        letter-spacing: 0px;
+        line-height: 32px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+    }
+
+    .group5 #thirtynine {
+        width: 200px;
+        font-size: 17px;
+        letter-spacing: 0px;
+        line-height: 38px;
+        color: #000000;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+        margin-top: 5px;
+    }
+
+    .group5 button {
+        width: 150px;
+        height: 52px;
+        border-radius: 31px;
+        background-color: #b68e76;
+        border: 1px solid #b68e76;
+        margin-top: 10px;
+    }
+
+    .group5 a {
+        width: 281px;
+        height: 49px;
+        font-size: 22px;
+        letter-spacing: 0px;
+        line-height: 30px;
+        color: #fefefc;
+        font-weight: 500;
+        font-family: "Roboto Slab";
+        text-decoration: none;
+    }
+
+
+    /* ============================================================group 6============================================================ */
+
+    .group6 {
+        height: 100vh;
+        width: 100%;
+        background-image: url(IMAGES/group6\ bg\ image.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .group6 .text {
+        width: 100%;
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    .group6 #fourty {
+        font-size: 42px;
+        line-height: 63px;
+        color: #000000;
+        font-family: "Roboto Slab";
+    }
+
+
+    .group6 .sidebarandtext {
+        width: 90%;
+        height: 80%;
+        border-radius: 100px 100px 100px 100px;
+        background-color: #ffffff;
+        margin-left: 5%;
+        margin-top: 20px;
+    }
+
+    .group6 .texts {
+        width: 100%;
+        height: 100%;
+        padding-top: 20px;
+        padding-left: 0px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    /* =================text 1============= */
+
+    .group6 .texts .text1 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .group6 .button3 button {
+        width: 40%;
+        height: 32px;
+        border-radius: 16px;
+        filter: drop-shadow(0px 3px 3.5px rgba(0, 0, 0, 0.35));
+        background-color: #080808;
+        font-size: 17px;
+        letter-spacing: 0px;
+        line-height: 23px;
+        color: #fefefc;
+        font-weight: 500;
+        font-family: "Roboto Slab";
+        text-align: center;
+        border: 2px solid black;
+    }
+
+    .group6 #fourtyone {
+        width: 100%;
+        font-size: 18px;
+        letter-spacing: 0px;
+        line-height: 0px;
+        color: #000000;
+        font-weight: 500;
+        font-family: "Roboto Slab";
+        margin-top: 20px;
+    }
+
+    .group6 #fourtytwo {
+        font-size: 16px;
+        letter-spacing: 0px;
+        line-height: 0px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+        margin-top: 20px;
+    }
+
+    .group6 #fourtythree {
+        width: 80%;
+        height: 40px;
+        font-size: 8px;
+        letter-spacing: 0px;
+        line-height: 10px;
+        color: #30302f;
+        font-weight: 600;
+        font-family: "Barlow";
+        margin-top: 20px;
+        margin-left: 10%;
+    }
+
+    .group6 #fourtyfour {
+        font-size: 10px;
+        letter-spacing: 0px;
+        line-height: 18px;
+        color: #000000;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+        margin-top: 10px;
+    }
+
+    .group6 .button4 button {
+        width: 40%;
+        height: 32px;
+        border-radius: 16px;
+        background-color: #b68e76;
+        font-size: 17px;
+        letter-spacing: 0px;
+        line-height: 23px;
+        color: #fefefc;
+        font-weight: 500;
+        font-family: "Roboto Slab";
+        text-align: center;
+        margin-top: 15px;
+        border: 2px solid #b68e76;
+        filter: drop-shadow(0px 3px 3.5px rgba(0, 0, 0, 0.35));
+    }
+
+    .group6 #fourtyfive {
+        width: 50px;
+        height: 30px;
+        border-radius: 50px 50px 50px 50px;
+    }
+
+
+    /* ====================text 2============== */
+
+    .group6 .texts .text2 {
+        width: 50%;
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+
+    .group6 #fourtysix {
+        width: 100%;
+        font-size: 10px;
+        letter-spacing: 0px;
+        line-height: 20px;
+        color: #30302f;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+        margin-left: 70px;
+        margin-top: 0px;
+    }
+
+    .group6 #fourtyseven img {
+        margin-left: 90px;
+        padding-top: 5px;
+        width: 50%;
+    }
+
+    /* ================text 3============== */
+
+    .group6 .texts .text3 {
+        width: 40%;
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+
+    .group6 #fourtyeight {
+        width: 50%;
+        margin-left: 20px;
+        padding-top: 10px;
+        font-size: 8px;
+        letter-spacing: 0px;
+        line-height: 21px;
+        text-decoration: underline;
+        color: #30302f;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+    }
+
+    .group6 #fourtynine {
+        margin-left: 20px;
+    }
+
+
+    /* ============================================================group 7=============================================================== */
+
+    .group7 {
+        height: 100vh;
+        width: 100%;
+        background-image: url(IMAGES/group7\ bg.png);
+        background-size: contain;
+    }
+
+    .group7 .main {
+        height: 100vh;
+        width: 100%;
+        background-image: url(IMAGES/group7\ bg\ Strars.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+    }
+
+    .group7 #fifty {
+        font-size: 53px;
+        letter-spacing: 1px;
+        line-height: 102px;
+        color: #ffffff;
+        font-weight: 400;
+        font-family: "Roboto Slab";
+        text-align: center;
+        padding-top: 190px;
+    }
+
+    .group7 #fiftyone {
+        width: 100%;
+        font-size: 28px;
+        letter-spacing: 0px;
+        line-height: 36px;
+        color: #000000;
+        font-weight: 250;
+        font-family: "Roboto Slab";
+        text-align: center;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .group7 .button button {
+        width: 80%;
+        height: 42px;
+        font-size: 22px;
+        letter-spacing: 0px;
+        line-height: 30px;
+        color: #fefefc;
+        font-weight: 700;
+        font-family: "Roboto Slab";
+        border-radius: 21px;
+        background-color: #b68e76;
+        margin-left: 10%;
+        margin-top: 20px;
+    }
+
+    .group7 #fiftytwo {
+        width: 80%;
+        font-size: 11px;
+        letter-spacing: 0px;
+        line-height: 15px;
+        color: #30302f;
+        font-weight: 400;
+        font-family: "Barlow";
+        text-align: center;
+        margin-left: 10%;
+        margin-top: 20px;
+    }
+
+    /* ============================================================group 8============================================================= */
+
+    .group8 {
+        height: 100vh;
+        width: 100%;
+        background-color: #f1e8e3;
+        display: flex;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .group8 .main {
+        width: 90%;
+        height: 554px;
+        border-radius: 110px;
+        background-color: #ffffff;
+        display: flex;
+        box-shadow: 0px 0px 30px 0px black;
+        background-image: url(IMAGES/group\ 8\ sidebar\ image.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        opacity: 100%;
+    }
+
+
+    .group8 .main .text {
+        width: 100%;
+        text-align: center;
+        padding-left: 0px;
+        padding-top: 50px;
+        opacity: 100%;
+
+    }
+
+
+    .group8 #fiftythree {
+        width: 100%;
+        font-size: 18px;
+        color: #000000;
+        font-weight: 700;
+        font-family: "Roboto Slab";
+    }
+
+    .group8 #fiftyfour {
+        width: 100%;
+        font-size: 24px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 550;
+        font-family: "Roboto Slab";
+        margin-top: 10px;
+    }
+
+    .group8 #fiftyfive {
+        width: 80%;
+        font-size: 12px;
+        letter-spacing: 0px;
+        color: #30302f;
+        font-weight: 600;
+        font-family: "Barlow";
+        margin-top: 10px;
+        margin-left: 10%;
+    }
+
+    .group8 .button button {
+        width: 70%;
+        height: 41px;
+        border-radius: 17px;
+        background-color: #b68e76;
+        font-size: 18px;
+        letter-spacing: 0px;
+        color: #fefefc;
+        font-weight: 700;
+        font-family: "Roboto Slab";
+        margin-top: 20px;
+        border: 1px solid #b68e76;
+    }
+
+    .group8 #fiftysix {
+        width: 100%;
+        font-size: 17px;
+        letter-spacing: 0px;
+        line-height: 23px;
+        color: #000000;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+        margin-top: 10px;
+    }
+
+    .group8 a {
+        width: 80%;
+        background-color: #000000;
+        text-decoration-color: #b68e76;
+        color: #b68e76;
+        font-size: 12px;
+        font-weight: 600;
+        font-family: "Roboto Slab";
+    }
+
+    .group8 #fiftyseven {
+        width: 70%;
+        font-size: 8px;
+        letter-spacing: 0px;
+        line-height: 8px;
+        color: #30302f;
+        font-weight: 600;
+        font-family: "Barlow";
+        margin-top: 20px;
+        margin-left: 15%;
+    }
+
+
+    .group8 .main .image img {
+        width: 360px;
+        display: none;
+    }
+
+    .group8 #seventeen {
+        margin-top: 20px;
+        font-size: 14px;
+        letter-spacing: 0px;
+        line-height: 19px;
+        color: #30302f;
+        font-weight: 800;
+        font-family: "Barlow";
+    }
+
+    /* <!-- ========================================================group 9========================================================== --> */
+
+    .group9 {
+        background-color: #f1e8e3;
+        height: 100vh;
+        width: 100%;
+        align-content: end;
+    }
+
+    .group9 .main {
+        width: 90%;
+        height: 620px;
+        border-radius: 80px 80px 0px 0px;
+        background-color: #b68e76;
+        margin-left: 5%;
+    }
+
+    .group9 .text1 {
+        text-align: center;
+    }
+
+    .group9 #fifty {
+        width: 100%;
+        font-size: 32px;
+        letter-spacing: 0px;
+        line-height: 5px;
+        color: #ffffff;
+        font-weight: 400;
+        font-family: "Roboto Slab";
+        padding-top: 70px;
+    }
+
+    .group9 #seventeen {
+        width: 100%;
+        margin-top: 10px;
+        font-size: 6px;
+        letter-spacing: 0px;
+        line-height: 19px;
+        color: #30302f;
+        font-weight: 800;
+        font-family: "Barlow";
+    }
+
+    .group9 .icons {
+        width: 100%;
+        margin-top: 20px;
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .group9 .icons i {
+        margin-left: 5px;
+    }
+
+    .group9 .text2main {
+        width: 100%;
+        height: 80%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .group9 .text2main .links1 {
+        width: 20%;
+        height: 50%;
+        margin-left: 0px;
+        margin-top: 20px;
+    }
+
+    .group9 .text2main .links1 a {
+        text-decoration: none;
+        color: white;
+        font-size: 16px;
+        letter-spacing: 0px;
+        line-height: 36px;
+        color: #ffffff;
+        font-weight: 500;
+        font-family: "Roboto Slab";
+    }
+
+    .group9 .text2main .links2 {
+        width: 30%;
+        height: 50%;
+        margin-left: 40px;
+        margin-top: 20px;
+    }
+
+    .group9 .text2main .links2 a {
+        text-decoration: none;
+        color: white;
+        font-size: 16px;
+        letter-spacing: 0px;
+        line-height: 36px;
+        color: #ffffff;
+        font-weight: 500;
+        font-family: "Roboto Slab";
+    }
+
+    .group9 .text2main .signupform {
+        width: 100%;
+        height: 50%;
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .group9 #fiftyeight {
+        width: 100%;
+        margin-top: 0px;
+        font-size: 19px;
+        letter-spacing: 0px;
+        color: #000000;
+        font-weight: 500;
+        font-family: "Roboto Slab";
+    }
+
+    .group9 input {
+        width: 90%;
+        height: 30px;
+        border-radius: 20px;
+        background-color: #ffffff;
+        margin-top: 15px;
+        margin-left: -10px;
+        border: 1px solid #b68e76;
+    }
+
+    .group9 button {
+        width: 60%;
+        height: 25px;
+        border-radius: 17px;
+        background-color: #000000;
+        margin-top: 15px;
+        margin-left: -10px;
+        font-size: 12px;
+        letter-spacing: 0px;
+        line-height: 24px;
+        color: #fefefc;
+        font-weight: 700;
+        font-family: "Roboto Slab";
+        border: 1px solid #b68e76;
+    }
+
+}
